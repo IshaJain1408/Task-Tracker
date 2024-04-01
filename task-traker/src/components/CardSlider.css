@@ -1,0 +1,30 @@
+
+
+
+/* CardSlider.css */
+.slick-slide {
+  margin-right: 25px !important; /* Adjust the margin as needed */
+}
+.card{
+  height: 30rem !important;
+  width: 16rem !important;
+
+}
+
+.text-center{
+  background-color: gray;
+}
+button{
+  background-color: #25689b !important;
+}
+.form-field {
+  border-color: #7C777B !important;
+  color: #7C777B !important;
+}
+.enable{
+  border-color: #7C777B !important;
+
+}
+
+
+

@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(90deg, rgba(234,219,252,1) 0%, rgba(218,219,255,1) 35%, rgba(244,219,249,1) 100%);
+}
+
+
+p{
+    color: #7C777B !important;
+  
+  }
+  .form-field {
+    border-color: #7C777B !important;
+    color: #7C777B !important;
+  }
+
+
+  @media only screen and (max-width: 1000px) {
+    body {
+      font-size: small !important; /* You can adjust the font size value as needed */
+    }
+  }
+  
